@@ -37,4 +37,4 @@ git push origin --delete tag_name
 
 ### Screenshot
 
-![index page](Capture.PNG)
+![index page](index-page.PNG)
